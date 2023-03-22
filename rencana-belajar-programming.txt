@@ -2,5 +2,4 @@ RENCANA BELAJAR PROGRAMMING
 - PHP Dasar
 - OOP PHP
 - PHP MVC
-- Framework PHP CodeIgniter
 - Framework PHP Laravel
