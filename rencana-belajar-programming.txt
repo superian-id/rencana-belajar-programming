@@ -3,3 +3,4 @@ RENCANA BELAJAR PROGRAMMING
 - OOP PHP
 - PHP MVC
 - Framework PHP CodeIgniter
+- Framework PHP Laravel
