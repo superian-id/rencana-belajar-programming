@@ -1,5 +1,7 @@
  RENCANA BELAJAR LARAVEL
  - Install laravel
+   * install xampp
+   * install composer
  - Memulai membuat project laravel
  - Route pada laravel
  - Membuat view pada laravel
